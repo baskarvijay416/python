@@ -24,7 +24,7 @@ if(amt>0):
             else:
                 disc=0.3 * amt
     
-    # printing discount and net payable amount 
+     discount and net payable amount 
     print("Discount : ",disc)
     print("Net Pay  : ",amt-disc)
 else:
